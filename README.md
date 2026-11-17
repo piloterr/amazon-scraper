@@ -434,7 +434,7 @@ Example response from the API reference, abridged — real values depend on the 
     "url": "https://www.amazon.com/PlayStation%C2%AE5-Digital-825GB-PlayStation-5/dp/B0FRGMYJMG/ref=sr_1_1",
     "asin": "B0FRGMYJMG",
     "price": null,
-    "title": "PlayStation®5 Digital Edition: 825GB",
+    "title": "PlayStation®5 Digital Edition – 825GB",
     "rating": 4.8,
     "real_price": 344.5,
     "reviews_count": 196
@@ -534,12 +534,12 @@ Use Piloterr from your own language with a typed client:
 
 ## Related scrapers
 
+- [Jobs Scraper API](https://github.com/piloterr/jobs-scraper)
 - [About You Scraper API](https://github.com/piloterr/aboutyou-scraper)
 - [Action Scraper API](https://github.com/piloterr/action-scraper)
 - [Aldi Scraper API](https://github.com/piloterr/aldi-scraper)
 - [Alibaba Scraper API](https://github.com/piloterr/alibaba-scraper)
 - [AliExpress Scraper API](https://github.com/piloterr/aliexpress-scraper)
-- [Allegro Scraper API](https://github.com/piloterr/allegro-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
